@@ -1,2 +1,2 @@
 # Movie-Recommendation-system
-Movie Recommendation system based on collaborativeFiltering
+Movie Recommendation system is based on collaborativeFiltering and PCA.
